@@ -1,0 +1,10 @@
+#wizytowka {
+    background-color: #f0f0f0;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#wizytowka header {
+    text-align: center;
+    margin-bottom: 15px;
+}
