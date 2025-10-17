@@ -18,6 +18,7 @@ header.top-bar{
     border: 2px solid purple;
     
     
+    
      
 }
 main.content{
@@ -25,12 +26,13 @@ main.content{
     background-color: #f5f5f5;
     padding: 30px;
     
-    border: 2px solid pink;
+    border: 2px solid rgb(224, 16, 179);
 
 }
 .dashboard{
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
 
 }
 .main-area{
@@ -43,4 +45,16 @@ main.content{
 }
 .prawo{
     float: right;
+}
+.tekst{
+    text-align: center;
+    color: blue;
+}
+.tekst2{
+    text-align: right;
+    color: purple;
+}
+.tekst3{
+    text-align: left;
+    color: rgb(224, 16, 179);
 }
